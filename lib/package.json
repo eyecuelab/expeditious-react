@@ -1,0 +1,25 @@
+{
+  "name": "@wayforge/lib",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "test": "vitest"
+  },
+  "dependencies": {
+    "framer-motion": "^7.2.1",
+    "pretty-print-json": "^1.2.5",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-is": "^18.2.0",
+    "styled-components": "^5.3.5"
+  },
+  "devDependencies": {
+    "@types/jest": "^28.1.8",
+    "@types/mocha": "^9.1.1",
+    "@types/react": "^18.0.17",
+    "@types/react-dom": "^18.0.6",
+    "hamt_plus": "^1.0.2",
+    "vite": "^3.0.7",
+    "vitest": "^0.19.1"
+  }
+}
