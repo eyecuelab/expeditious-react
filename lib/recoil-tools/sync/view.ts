@@ -1,6 +1,6 @@
 import { atom } from "recoil"
 import { syncEffect } from "recoil-sync"
-import { custom, number } from "zod"
+import { custom } from "@recoiljs/refine"
 
 class ViewState {
   public active: boolean

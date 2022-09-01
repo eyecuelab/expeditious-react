@@ -3,7 +3,7 @@ import { StrictMode } from "react"
 import { createRoot } from "react-dom/client"
 import { RecoilRoot } from "recoil"
 
-import { RecoilInspector } from "~/lib/recoil-tools/Inspector"
+import RecoilInspector from "@eyecuelab/recoil-devtools"
 
 import { App } from "./App"
 import { socket, SocketContext } from "./services/socket"

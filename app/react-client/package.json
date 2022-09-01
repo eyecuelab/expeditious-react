@@ -10,6 +10,7 @@
     "test": "vitest"
   },
   "dependencies": {
+    "@eyecuelab/recoil-devtools": "0.0.0",
     "@emotion/babel-plugin": "^11.10.0",
     "@emotion/react": "^11.10.0",
     "framer-motion": "^7.2.1",
